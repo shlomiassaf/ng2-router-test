@@ -2,7 +2,7 @@
 
 In this repo you will find the 2 issues in angular2 alpha 25 & router alpha24.
 
-There is an App component that defines 3 routes: `Home` , `Problem1` and `Problem2`
+There is an `App` component that defines 3 routes: `Home` , `Problem1` and `Problem2`
 
 `Problem1` is a component with a `Problem1Child` as a child component, the `RouterLink` is set within `Problem1`'s template.
 
