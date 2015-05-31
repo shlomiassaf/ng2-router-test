@@ -4,4 +4,5 @@ npm install
 
 gulp build
 
-gulp server
+gulp serve
+
